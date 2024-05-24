@@ -1,0 +1,17 @@
+{
+  "name": "1-hour-telegram-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
